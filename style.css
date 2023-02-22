@@ -1,0 +1,40 @@
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.border{
+border:2px solid white
+}
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.id {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 58px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+ img {
+            border-radius: 58%;
+        }
+        
+        hr.bold {
+  border-top: 4px solid green;
+}
